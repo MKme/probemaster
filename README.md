@@ -29,9 +29,9 @@ You can add capacitance, resistance, switches LED indicators easily by putting t
 
 While the DIPswitch conenctions allow probing the lower connections are not joined in the center- this allows the user to either connect them or conenct with more components as mentioned above
 
-<img src="https://github.com/MKme/probemaster/blob/main/photos/Schematic%20Fig.PNG" width="300"/>
+<img src="https://github.com/MKme/probemaster/blob/main/photos/Schematic%20Fig.PNG" width="500"/>
 
-Forum Thread HERE - 
+Forum Thread HERE - https://forum.mkme.org 
 
 My Videos HERE: https://www.youtube.com/mkmeorg
 
