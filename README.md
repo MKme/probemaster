@@ -19,13 +19,15 @@ This board is to make my life easier when measuring/probing unknown hardware.  O
 
 and manipulate the outputs- hence the dipswitches so I can turn things on or off
 
+Buy the kit in my store here: https://store.mkme.org/custom
+
 The protoyping area will allow me to add any components INSIDE the working crcuit while measuring on the DUT- Handy eh?
 
 You can add capacitance, resistance, switches LED indicators easily by putting them right in series or parell with the circuit
 
 While the DIPswitch conenctions allow probing the lower connections are not joined in the center- this allows the user to either connect them or conenct with more components as mentioned above
 
-<img src="https://github.com/MKme/probemaster/blob/main/photos/Schematic%20Fig.PNG" width="400"/>
+<img src="https://github.com/MKme/probemaster/blob/main/photos/Schematic%20Fig.PNG" width="300"/>
 
 Forum Thread HERE - 
 
@@ -36,7 +38,12 @@ My Videos HERE: https://www.youtube.com/mkmeorg
 
 ### Parts can be found in the KiCad BOM 
 
-Buy DIP switches on Amazon
-Header pins
+Buy the PCB in my store: https://store.mkme.org/custom
+
+Buy DIP switches on Amazon: https://amzn.to/2UbDWsz
+
+Header pins colored : https://amzn.to/3euvvPY
+
+Header pins black only https://amzn.to/3z3T4Xy 
 
 <img src="https://github.com/MKme/probemaster/blob/main/photos/PCB%20Fig.PNG" width="700"/>
