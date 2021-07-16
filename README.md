@@ -1,3 +1,10 @@
+# ProbeMaster Breakout Board 
+This board is to make my life easier when measuring/probing unknown hardware.  Often I want to hook up a logic probe or DMM in to the crcuit 
+
+and manipulate the outputs- hence the dipswitches so I can turn things on or off
+
+Buy the kit in my store here: https://store.mkme.org/custom
+
 <p align="center">
 <br>
  <img src="https://github.com/MKme/probemaster/blob/main/photos/3D.PNG" width="700"/>
@@ -14,12 +21,7 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
 
 
-# ProbeMaster Breakout Board 
-This board is to make my life easier when measuring/probing unknown hardware.  Often I want to hook up a logic probe or DMM in to the crcuit 
 
-and manipulate the outputs- hence the dipswitches so I can turn things on or off
-
-Buy the kit in my store here: https://store.mkme.org/custom
 
 The protoyping area will allow me to add any components INSIDE the working crcuit while measuring on the DUT- Handy eh?
 
