@@ -1,7 +1,7 @@
 # ProbeMaster Breakout Board 
 This board is to make my life easier when measuring/probing unknown hardware.  Often I want to hook up a logic probe or DMM in to the crcuit and manipulate the outputs- hence the dipswitches so I can turn things on or off
 
-Buy a DIY kit in my store here: https://store.mkme.org/custom
+Buy a DIY kit in my store here: https://store.mkme.org/?product_cat=custom
 
 <p align="center">
 <br>
@@ -38,7 +38,7 @@ My Videos HERE: https://www.youtube.com/mkmeorg
 
 ### Parts can be found in the KiCad BOM 
 
-Buy the PCB in my store: https://store.mkme.org/custom
+Buy the PCB in my store: https://store.mkme.org/?product_cat=custom
 
 Buy DIP switches on Amazon: https://amzn.to/2UbDWsz
 
