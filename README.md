@@ -64,3 +64,6 @@ I pulled this in to Inkscape and just traced the outline and plotted 4 3mm mount
 
 This I can use easily in my K40 laser cutter to cut a nice acrylic base.  
 
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. https://creativecommons.org/licenses/by-nc/4.0/ 
+
