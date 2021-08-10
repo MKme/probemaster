@@ -1,7 +1,7 @@
 # ProbeMaster Breakout Board 
 This board is to make my life easier when measuring/probing unknown hardware.  Often I want to hook up a logic probe or DMM in to the crcuit and manipulate the outputs- hence the dipswitches so I can turn things on or off
 
-Buy a DIY kit in my store here: https://store.mkme.org/custom
+Buy a DIY kit in my store here: https://store.mkme.org/?product_cat=custom
 
 <p align="center">
 <br>
@@ -38,7 +38,7 @@ My Videos HERE: https://www.youtube.com/mkmeorg
 
 ### Parts can be found in the KiCad BOM 
 
-Buy the PCB in my store: https://store.mkme.org/custom
+Buy the PCB in my store: https://store.mkme.org/?product_cat=custom
 
 Buy DIP switches on Amazon: https://amzn.to/2UbDWsz
 
@@ -47,3 +47,23 @@ Header pins colored : https://amzn.to/3euvvPY
 Header pins black only https://amzn.to/3z3T4Xy 
 
 <img src="https://github.com/MKme/probemaster/blob/main/photos/PCB%20Fig.PNG" width="700"/>
+
+# Project:
+
+###  Base/Enclosure
+
+While the initial design is off at PCBWay for board fab I decided to make a base to set the unit on.  
+
+To do this I used Kicad Plot and exported the Drill file as SVG see file ProbeMaster-PTH-drl_map:
+
+<img src="https://github.com/MKme/probemaster/blob/main/PCB/ProbeMaster/gerbers/svgs/ProbeMaster-PTH-drl_map.svg" width="500"/>
+
+I pulled this in to Inkscape and just traced the outline and plotted 4 3mm mounting holes aligning them with the PCB holes
+
+<img src="https://github.com/MKme/probemaster/blob/main/PCB/ProbeMaster/gerbers/svgs/Erics%20ottom%20plate%20final%20v0.1.svg" width="300"/>
+
+This I can use easily in my K40 laser cutter to cut a nice acrylic base.  
+
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. https://creativecommons.org/licenses/by-nc/4.0/ 
+
