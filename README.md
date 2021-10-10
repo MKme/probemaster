@@ -60,7 +60,7 @@ To do this I used Kicad Plot and exported the Drill file as SVG see file ProbeMa
 
 I pulled this in to Inkscape and just traced the outline and plotted 4 3mm mounting holes aligning them with the PCB holes
 
-<img src="https://github.com/MKme/probemaster/blob/main/PCB/ProbeMaster/gerbers/svgs/Erics%20ottom%20plate%20final%20v0.1.svg" width="300"/>
+<img src="https://github.com/MKme/probemaster/blob/main/Enclosure/Probemaster%20bottom%20plate%20final%20v0.1.svg" width="300"/>
 
 This I can use easily in my K40 laser cutter to cut a nice acrylic base.  
 
