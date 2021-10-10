@@ -5,7 +5,7 @@ Buy a DIY kit in my store here: https://store.mkme.org/?product=probemaster-hard
 
 <p align="center">
 <br>
- <img src="https://github.com/MKme/probemaster/blob/main/photos/3D.PNG" width="700"/>
+ <img src="https://github.com/MKme/probemaster/blob/main/photos/802569AF-D524-4582-A6D2-74B29E4E054E.jpg" width="700"/>
  <br>
 
 <br>
@@ -19,7 +19,7 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
 
 
-
+<img src="https://github.com/MKme/probemaster/blob/main/photos/3D.PNG" width="700"/>
 
 The protoyping area will allow me to add any components INSIDE the working crcuit while measuring on the DUT- Handy eh?
 
