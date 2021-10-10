@@ -1,7 +1,7 @@
 # ProbeMaster Breakout Board 
 This board is to make my life easier when measuring/probing unknown hardware.  Often I want to hook up a logic probe or DMM in to the crcuit and manipulate the outputs- hence the dipswitches so I can turn things on or off
 
-Buy a DIY kit in my store here: https://store.mkme.org/?product_cat=custom
+Buy a DIY kit in my store here: https://store.mkme.org/?product=probemaster-hardware-hacking-breakout-board
 
 <p align="center">
 <br>
@@ -64,6 +64,7 @@ I pulled this in to Inkscape and just traced the outline and plotted 4 3mm mount
 
 This I can use easily in my K40 laser cutter to cut a nice acrylic base.  
 
+Kit: https://store.mkme.org/?product=probemaster-hardware-hacking-breakout-board
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. https://creativecommons.org/licenses/by-nc/4.0/ 
 
