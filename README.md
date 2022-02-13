@@ -29,7 +29,7 @@ While the DIPswitch conenctions allow probing the lower connections are not join
 
 <img src="https://github.com/MKme/probemaster/blob/main/photos/Schematic%20Fig.PNG" width="500"/>
 
-Forum Thread HERE - https://forum.mkme.org 
+Forum Thread HERE - http://forum.mkme.org/viewtopic.php?f=5&t=1162
 
 My Videos HERE: https://www.youtube.com/mkmeorg
 
@@ -38,7 +38,7 @@ My Videos HERE: https://www.youtube.com/mkmeorg
 
 ### Parts can be found in the KiCad BOM 
 
-Buy the PCB in my store: https://store.mkme.org/?product_cat=custom
+Buy the PCB in my store: https://store.mkme.org/?product=probemaster-hardware-hacking-breakout-board
 
 Buy DIP switches on Amazon: https://amzn.to/2UbDWsz
 
